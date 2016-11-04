@@ -1,0 +1,26 @@
+{
+  "name": "worona-polyfills",
+  "version": "1.0.0",
+  "description": "Polyfills for the Worona project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worona/worona-polyfills.git"
+  },
+  "keywords": [
+    "worona",
+    "polyfill"
+  ],
+  "author": "Worona Labs SL | Luis Herranz @luisherranz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/worona/worona-polyfills/issues"
+  },
+  "homepage": "https://github.com/worona/worona-polyfills#readme",
+  "dependencies": {
+    "babel-polyfill": "^6.16.0"
+  }
+}
